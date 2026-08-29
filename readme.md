@@ -1,7 +1,11 @@
 <div align="center">
 
-<!-- YUXARI ÜÇÜN HƏRƏKƏTLİ ANİMASYONLU BAŞLIQ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=50&duration=3000&pause=800&color=238636&center=true&vCenter=true&width=900&height=100&lines=const+zezeBot+%3D+%27Discord.js+v14+Architecture%27;;run+--optimized+--clean+--fast;" />
+<!-- ÜST HƏRƏKƏTLİ KOD ANİMASYASI -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=44&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=90&lines=const+zeze+%3D+new+Architecture(%27v14%27);%2F%2F+Clean+%26+High-Performance;" />
+<br>
+
+<!-- İNCƏ BÖLÜCÜ XƏTT -->
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=161B22,0D1117,000000&height=25&section=header" width="100%" />
 <br>
 
   <img width="150" height="150" href="https://discord.com/oauth2/authorize?client_id=700959962452459550&permissions=8&redirect_uri=https://discord.gg/VppTU9h&scope=applications.commands%20bot&response_type=code" src="https://cdn.discordapp.com/attachments/801418986809589771/1007426236894691378/Narpitti.png">
@@ -57,7 +61,7 @@ Sistemi ayağa qaldırmaq üçün bu addımları tək-tək keç:
     * **token:** [Discord Developer Portal](https://discord.com/developers/applications) üzərindən aldığın botunun tokeni. <br>
     * **topggToken:** Səs yoxlama və s. üçün lazım olur. Məcburi deyil, istəsən boş burax. <br>
     * **mongooseToken:** [MongoDB Cloud](https://cloud.mongodb.com) üzərindən götürürsən.
-		> Necə alınacağını bilmirsənsə, [MongoDB URL alma](https://www.youtube.com/watch?v=MFla3bZwBOc) videosuna ya da [MongoDB Atlas connection bağlantısı alma](https://medium.com/@thearkxd/node-js-projeleri-i%C3%A7in-mongodb-atlas-connection-linki-alma-5d955bbe5ae6) yazısına baxarsan. 
+		> Necə alınacağını bilmirsənsə, [MongoDB URL alma](https://www.youtube.com/watch?v=MFla3bZwBOc) videosuna ya da [MongoDB Atlas connection bağlantısı alma](https://medium.com/@thearkxd/node-js-projeeleri-i%C3%A7in-mongodb-atlas-connection-linki-alma-5d955bbe5ae6) yazısına baxarsan. 
 	*(Qardaş, bu mənbələr bizə aid deyil, sadəcə kömək olsun deyə qoymuşuq.)*
 2. `client.js` içindəki `client.settings` hissəsini öz botuna uyğun düzəlt.
 3. Konsola `npm i` yazaraq lazımi modulları çək. <br>
