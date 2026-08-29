@@ -1,4 +1,9 @@
 <div align="center">
+
+<!-- YUXARI ÜÇÜN HƏRƏKƏTLİ ANİMASYONLU BAŞLIQ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=50&duration=3000&pause=800&color=238636&center=true&vCenter=true&width=900&height=100&lines=const+zezeBot+%3D+%27Discord.js+v14+Architecture%27;;run+--optimized+--clean+--fast;" />
+<br>
+
   <img width="150" height="150" href="https://discord.com/oauth2/authorize?client_id=700959962452459550&permissions=8&redirect_uri=https://discord.gg/VppTU9h&scope=applications.commands%20bot&response_type=code" src="https://cdn.discordapp.com/attachments/801418986809589771/1007426236894691378/Narpitti.png">
 </div>
 
@@ -16,7 +21,7 @@ Açıq mənbəli layihəmizə dəstək olmaq istəsən bir ulduzunu əsirgəmə 
 Heç başını ağrıtmaq istəmirsənsə, birbaşa [Davet bağlantısı](https://discord.com/oauth2/authorize?client_id=700959962452459550&permissions=8&redirect_uri=https://discord.gg/VppTU9h&scope=applications.commands%20bot&response_type=code) ilə Zeze botunu öz sunucuna ata bilərsən.
 
 ## ❤️‍🔥 Nə Var, Nə Yox?
-Bax, bu kodların hamısı açıq deyil, qardaş. Botun ən təzə forması hələlik məndə qalır, vaxtı gələndə hamısını çölə tökəcəm, səhifəni izləmədə qal! İndi içində olanlar bunlardır:
+Bax, qardaş, kodların hamısını çölə tökdüm, paylaşıldı getdi! İçində olan sistemlər və özəlliklər bunlardır:
 
 ### Sistemlər
 > ✅ Bağlantı Engel <br>
@@ -64,16 +69,3 @@ Sistemi ayağa qaldırmaq üçün bu addımları tək-tək keç:
 
 ## 💞 Kimin Köməyə Ehtiyacı Var?
 Profilində "developer" yazıb, gəlib ən balaca səhvlər üçün baş ağrıdanlar var e... Heç kim inciməsin, artıq sunucumuzda boş-boş dəstək vermirik. Proqramın özündə real xəta görsən, gəl Pull Request/Issue at, başım üstə. İşini bilən əməkçi qardaşlarımın yolu açıq olsun 🫡
-
-## ❤️ Təşəkkürlər (Sağ Olsunlar)
-Aşağıda adını gördüyüm bütün abidələrə, layihələrə və əziyyəti keçənlərə halal xoş olsun:
-### Sayğıdeğer Abilerim 
-* [Androz2091](https://github.com/Androz2091)
-* [Akif9748](https://github.com/Akif9748)
-### Projeler
-* [Alita](https://github.com/KSJaay/Alita)
-* [Atlanta](https://github.com/Androz2091/AtlantaBot)
-* [Dodong](https://github.com/nizewn/Dodong)
-* [Eyesense-Music-Bot](https://github.com/naseif/Eyesense-Music-Bot)
-### Diğer
-* [Theark (Medium)](https://medium.com/@thearkxd)
