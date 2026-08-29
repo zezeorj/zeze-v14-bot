@@ -10,7 +10,7 @@ Alemde hələ ki, bundan təmiz işləyən Türkcə bot altyapısı hələ gəlm
 🌐 **Əlaqə & Sosial:**
 - **GitHub:** [@zezeorj](https://github.com/zezeorj)
 - **Instagram:** [@zezeorj](https://instagram.com/zezeorj)
-- **Discord:** `zezeorj` (və ya [Discord Sunucusu](https://discord.gg/VppTU9h))
+- **Discord:** `zezeorj` (və ya [Discord Sunucusu]())
 
 Açıq mənbəli layihəmizə dəstək olmaq istəsən bir ulduzunu əsirgəmə ⭐ <br>
 Heç başını ağrıtmaq istəmirsənsə, birbaşa [Davet bağlantısı](https://discord.com/oauth2/authorize?client_id=700959962452459550&permissions=8&redirect_uri=https://discord.gg/VppTU9h&scope=applications.commands%20bot&response_type=code) ilə Nraphy-ni öz sunucuna ata bilərsən.
