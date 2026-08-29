@@ -2,7 +2,7 @@
   <img width="150" height="150" href="https://discord.com/oauth2/authorize?client_id=700959962452459550&permissions=8&redirect_uri=https://discord.gg/VppTU9h&scope=applications.commands%20bot&response_type=code" src="https://cdn.discordapp.com/attachments/801418986809589771/1007426236894691378/Narpitti.png">
 </div>
 
-# Nraphy - Discord Bot Altyapısı (Discord.js v14)
+# Zeze - Discord Bot Altyapısı (Discord.js v14)
 Alemde hələ ki, bundan təmiz işləyən Türkcə bot altyapısı hələ gəlməyib! 
 - Ən son sürət (`discord.js v14`) və slash komutları ilə heç vaxt geridə qalmırsan. 
 - Önbellek (cache) sistemi ilə gücləndirilmiş MongoDB bazası sayəsində fişenk kimi işləyir 🚀
