@@ -1,19 +1,24 @@
-
-<p align="center">
+<div align="center">
   <img width="150" height="150" href="https://discord.com/oauth2/authorize?client_id=700959962452459550&permissions=8&redirect_uri=https://discord.gg/VppTU9h&scope=applications.commands%20bot&response_type=code" src="https://cdn.discordapp.com/attachments/801418986809589771/1007426236894691378/Narpitti.png">
-</p>
+</div>
 
-# Nraphy - Discord Bot Altyapısı (Discord js v14)
-Discord'daki en iyi Türkçe bot altyapısı! 
-- En güncel discord.js sürümü (v14) ve slash komutları ile geride bırakmaz. 
-- Önbellekleme sistemiyle modifiye edilmiş MongoDB veritabanı ile hiç olmadığı kadar hızlı 🚀
+# Nraphy - Discord Bot Altyapısı (Discord.js v14)
+Alemde hələ ki, bundan təmiz işləyən Türkcə bot altyapısı hələ gəlməyib! 
+- Ən son sürət (`discord.js v14`) və slash komutları ilə heç vaxt geridə qalmırsan. 
+- Önbellek (cache) sistemi ilə gücləndirilmiş MongoDB bazası sayəsində fişenk kimi işləyir 🚀
 
-Açık kaynak projemize destek vermek istersen yıldızlayabilirsin ⭐ <br>
-Ya da hiç zahmete girmeyip direkt [Davet bağlantısı](https://discord.com/oauth2/authorize?client_id=700959962452459550&permissions=8&redirect_uri=https://discord.gg/VppTU9h&scope=applications.commands%20bot&response_type=code) ile Nraphy'i sunucuna ekleyebilirsin.
+🌐 **Əlaqə & Sosial:**
+- **GitHub:** [@zezeorj](https://github.com/zezeorj)
+- **Instagram:** [@zezeorj](https://instagram.com/zezeorj)
+- **Discord:** `zezeorj` (və ya [Discord Sunucusu](https://discord.gg/VppTU9h))
 
-## ❤️‍🔥 Özellikler
-Bu projede tüm Nraphy kodları açık olarak paylaşılmamıştır. Botun güncel hâli saklıdır, güncel hâli ileri zamanlarda paylaşılacaktır, takipte kalabilirsin. Bu projede, Nraphy'de bulunan sistemlerle ilgili durumlar aşağıdaki gibidir:
-### Sistemler
+Açıq mənbəli layihəmizə dəstək olmaq istəsən bir ulduzunu əsirgəmə ⭐ <br>
+Heç başını ağrıtmaq istəmirsənsə, birbaşa [Davet bağlantısı](https://discord.com/oauth2/authorize?client_id=700959962452459550&permissions=8&redirect_uri=https://discord.gg/VppTU9h&scope=applications.commands%20bot&response_type=code) ilə Nraphy-ni öz sunucuna ata bilərsən.
+
+## ❤️‍🔥 Nə Var, Nə Yox?
+Bax, bu kodların hamısı açıq deyil, qardaş. Botun ən təzə forması hələlik məndə qalır, vaxtı gələndə hamısını çölə tökəcəm, səhifəni izləmədə qal! İndi içində olanlar bunlardır:
+
+### Sistemlər
 > ✅ Bağlantı Engel <br>
 > ✅ Buton Rol <br>
 > ✅ Büyük Harf Engel <br>
@@ -24,7 +29,7 @@ Bu projede tüm Nraphy kodları açık olarak paylaşılmamıştır. Botun günc
 > ✅ Sayaç <br>
 > ✅ Spam Koruması <br>
 
-### Oyun Sistemleri
+### Oyun Sistemləri
 > ✅ Kelime Oyunu <br>
 
 ### Komutlar
@@ -35,34 +40,34 @@ Bu projede tüm Nraphy kodları açık olarak paylaşılmamıştır. Botun günc
 > ✅ Genel Komutlar <br>
 > ✅ Oyunlar <br>
 
-### Diğer
-> ✅ Kendi slash komutlarınızı ekleyip kullanabilmen için optimize bir altyapı <br>
-> ✅ Client'a tanımlı, işlevli fonksiyonlar <br>
-> ✅ Kullanımı basitleştirilmiş ve önbellekleme sistemiyle modifiye edilmiş MongoDB veritabanı <br>
-> ✅ Burada bahsedilmeyen birçok özellik daha... <br>
+### Digər Özəlliklər
+> ✅ Öz slash komutlarını rahatca qoyub işlədə bilməyin üçün gəbərməyən, təmiz altyapı <br>
+> ✅ Client-a bağlı, işlək funksiyalar <br>
+> ✅ İstifadəsi rahatlaşdırılmış və kesh sistemli MongoDB <br>
+> ✅ Burada adını yazmadığım başqa cürə detallar... <br>
 
-## ✨ Başlarken (Getting Started)
-Botu kullanıma hazırlamak için aşağıdaki adımları izle
-1. `config.json` dosyasının içindeki gerekli yerleri doldur. <br>
-    * **token:** [Discord Developer Portal](https://discord.com/developers/applications) üzerinden oluşturduğun botunun tokeni. <br>
-    * **topggToken:** Top.gg oy kontrolü vb. için kullanılır. Doldurulması zorunlu değildir. <br>
-    * **mongooseToken:** [MongoDB Cloud](https://cloud.mongodb.com) üzerinden edinebilirsin.
-		> Nasıl edineceği bilmiyorsan [MongoDB URL alma](https://www.youtube.com/watch?v=MFla3bZwBOc) videosuna ya da [MongoDB Atlas connection bağlantısı alma](https://medium.com/@thearkxd/node-js-projeleri-i%C3%A7in-mongodb-atlas-connection-linki-alma-5d955bbe5ae6) rehberine göz atabilirsin. 
-	*(Kaynaklar projemize ait değildir.)*
-2. `client.js` dosyasındaki `client.settings` objesinin verilerini botuna göre özelleştir.
-3. Konsola `npm i` çekerek node modüllerini kur. <br>
+## ✨ Quraşdırma (Bunu Necə İşlədəcəksən?)
+Sistemi ayağa qaldırmaq üçün bu addımları tək-tək keç:
+1. `config.json` faylını aç, içini öz məlumatlarınla doldur: <br>
+    * **token:** [Discord Developer Portal](https://discord.com/developers/applications) üzərindən aldığın botunun tokeni. <br>
+    * **topggToken:** Səs yoxlama və s. üçün lazım olur. Məcburi deyil, istəsən boş burax. <br>
+    * **mongooseToken:** [MongoDB Cloud](https://cloud.mongodb.com) üzərindən götürürsən.
+		> Necə alınacağını bilmirsənsə, [MongoDB URL alma](https://www.youtube.com/watch?v=MFla3bZwBOc) videosuna ya da [MongoDB Atlas connection bağlantısı alma](https://medium.com/@thearkxd/node-js-projeleri-i%C3%A7in-mongodb-atlas-connection-linki-alma-5d955bbe5ae6) yazısına baxarsan. 
+	*(Qardaş, bu mənbələr bizə aid deyil, sadəcə kömək olsun deyə qoymuşuq.)*
+2. `client.js` içindəki `client.settings` hissəsini öz botuna uyğun düzəlt.
+3. Konsola `npm i` yazaraq lazımi modulları çək. <br>
 
-> 🎉 Tebrikler, kurulumu tamamladın! Botu çalıştırmak istediğinde konsola `npm start` yazabilirsin.
+> 🎉 Həqiqətən də qurtardı! Botu işə salmaq üçün tək eləməli olduğun şey konsola `npm start` yazmaqdır.
 
-## 🔔 Güncelleme Desteği
-Eğer bu yazıyı okuyorsanız güncelleme desteği devam etmektedir. Güncellemeyi keseceksem de tam burada bildiririm. Her güncelleme için birkaç ayda bir yoklamakta fayda var. Projeyi yıldızlayarak katkıda bulunabilirsiniz!
+## 🔔 Güncəlləmələr
+Əgər bu yazını oxuyursansa, deməli sistem hələ də yaşayır və güncəllənir. Nə vaxt dəstəyi kəssəm, buraya yazacam. Hər yeniləmə üçün bir neçə ayda bir baş çəkməkdə fayda var. Proqrama ulduz verməyi də unutma!
 
-## 💞 Yardıma İhtiyacın Olursa
-Profilinde "developer" ibaresi bulunurken en basit kod hataları için yardım isteyenler, sunucumuzda rahatsızlık verdikleri için Discord sunucumuzda artık destek sağlayamıyoruz. Projenin kendisinde bir hata varsa Pull Request/Issue oluşturabilirsin. Emekçi kardeşlerimin yolu açık olsun 🫡
+## 💞 Kimin Köməyə Ehtiyacı Var?
+Profilində "developer" yazıb, gəlib ən balaca səhvlər üçün baş ağrıdanlar var e... Heç kim inciməsin, artıq sunucumuzda boş-boş dəstək vermirik. Proqramın özündə real xəta görsən, gəl Pull Request/Issue at, başım üstə. İşini bilən əməkçi qardaşlarımın yolu açıq olsun 🫡
 
-## ❤️ Ayrıca Teşekkürler
-Aşağıdaki kişilere, projelere ve aklıma gelmeyen daha nice kaynağa, emeklerinden dolayı teşekkürlerimi sunuyorum. (Aklıma geldikçe dahasını da ekleyeceğim)
-### Saygıdeğer Abilerim 
+## ❤️ Təşəkkürlər (Sağ Olsunlar)
+Aşağıda adını gördüyüm bütün abidələrə, layihələrə və əziyyəti keçənlərə halal xoş olsun:
+### Sayğıdeğer Abilerim 
 * [Androz2091](https://github.com/Androz2091)
 * [Akif9748](https://github.com/Akif9748)
 ### Projeler
